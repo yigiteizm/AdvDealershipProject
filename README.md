@@ -1,10 +1,13 @@
-# Project Title
+# Advanced Car Dealership Project
 
-## Description of the Project
+## Description of the Advanced Car Dealership Project
 
-Briefly describe what this Java console application does. Mention its purpose and who the intended users are. Explain the main functionality and what problems it aims to solve.
+The Advanced Car Dealership project is a basic Java program designed to manage a car dealership’s inventory.
+It provides users with an easy way to add new cars, remove cars, view all available vehicles,
+and search by specific criteria such as brand like Mercedes.
+The program also allows users to create sales or lease contracts for vehicles.
+Car data is stored in a CSV file, making it easy to update and retrieve vehicle records.
 
-![Class Diagram](path/to/your/class_diagram.png)
 
 ## User Stories
 
@@ -45,14 +48,25 @@ Follow these steps to get your application running within IntelliJ IDEA:
 
 ## Demo
 
+- Here are screenshots that show the main features of the application.
+
+### Advanced Car Dealership user-friendly main menu screenshot:
+
+### Car adding Feature to the inventory:
+
+
+### Car Selling Feature in the Inventory:
+
+
+### Car Leasing Feature in the Inventory
+
 
 
 ## Future Work
 
-Outline potential future enhancements or functionalities you might consider adding:
+A future feature could allow users to trade in option for their old vehicle. This would require a CSV file to store average vehicle values,
+which would be used to calculate the trade-in value and adjust the sales or lease price.
 
-- Additional feature to be developed.
-- Improvement of current functionalities.
 
 ## Resources
 
