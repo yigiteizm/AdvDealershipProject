@@ -8,11 +8,17 @@ Briefly describe what this Java console application does. Mention its purpose an
 
 ## User Stories
 
-List the user stories that guided the development of your application. Format these stories as: "As a [type of user], I want [some goal] so that [some reason]."
 
-- As a user, I want to be able to input my data, so that the application can process it accordingly.
-- As a user, I want to receive immediate feedback, so I can understand what to do next.
-
+1. As a user, I want to list all vehicles in the inventory, so that I can explore the car options.
+2. As a user, I want to add a new vehicle to the inventory, so that I can manage the car inventory.
+3. As a user, I want to remove old vehicles from the inventory, so that I can manage the car inventory.
+4. As a user, I want to search for vehicles by price in the inventory, so that I can look for car options according to my budget.
+5. As a user, I want to search for vehicles by year in the inventory, so that I can filter cars within my age threshold.
+6. As a user, I want to search for vehicles by color in the inventory, so that I can choose my favorite car.
+7. As a user, I want to search for vehicles by mileage range in the inventory, so that I can see less-used cars.
+8. As a user, I want to search for vehicles by type in the inventory, so that I can see car options such as SUV, van, or truck.
+9. As a user, I want to create a lease contract for a vehicle, so that I can lease the vehicle for a specified period with a monthly payment. 
+10. As a user, I want to create a sale contract for a vehicle, so that I can purchase the vehicle outright with a one-time payment.
 ## Setup
 
 Instructions on how to set up and run the project using IntelliJ IDEA.
@@ -30,7 +36,7 @@ Follow these steps to get your application running within IntelliJ IDEA:
 2. Select "Open" and navigate to the directory where you cloned or downloaded the project.
 3. After the project opens, wait for IntelliJ to index the files and set up the project.
 4. Find the main class with the `public static void main(String[] args)` method.
-5. Right-click on the file and select 'Run 'YourMainClassName.main()'' to start the application.
+5. Right-click on the file and select 'Run 'CarDealerShip.main()'' to start the application.
 
 ## Technologies Used
 
@@ -39,9 +45,7 @@ Follow these steps to get your application running within IntelliJ IDEA:
 
 ## Demo
 
-Include screenshots or GIFs that show your application in action. Use tools like [Giphy Capture](https://giphy.com/apps/giphycapture) to record a GIF of your application.
 
-![Application Screenshot](path/to/your/screenshot.png)
 
 ## Future Work
 
@@ -54,17 +58,15 @@ Outline potential future enhancements or functionalities you might consider addi
 
 List resources such as tutorials, articles, or documentation that helped you during the project.
 
-- [Java Programming Tutorial](https://www.example.com)
-- [Effective Java](https://www.example.com)
+- [Java Programming Tutorial](https://www.w3schools.com/java)
+- [Year Up United](https://yearup.brightspace.com/d2l/home/8605)
+- [Java Code Library](https://www.baeldung.com/java-current-month-start-date#:~:text=Using%20the%20LocalDate%20Class,date%20with%20the%20day%20altered.)
 
 ## Team Members
 
-- **Name 1** - Specific contributions or roles.
-- **Name 2** - Specific contributions or roles.
+- **Yigit Demirci** - Project Developer.
+
 
 ## Thanks
 
-Express gratitude towards those who provided help, guidance, or resources:
-
-- Thank you to [Mentor's Name] for continuous support and guidance.
-- A special thanks to all teammates for their dedication and teamwork.
+- Thank you to Raymond Maroun for continuous support and guidance.
