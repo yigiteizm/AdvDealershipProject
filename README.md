@@ -52,15 +52,19 @@ Follow these steps to get your application running within IntelliJ IDEA:
 
 ### Advanced Car Dealership user-friendly main menu screenshot:
 
+![MENU.JPG](imgs%2FMENU.JPG)
+
 ### Car adding Feature to the inventory:
 
+![Adv Add.JPG](imgs%2FAdv%20Add.JPG)
 
 ### Car Selling Feature in the Inventory:
 
+![Sell option.JPG](imgs%2FSell%20option.JPG)
 
 ### Car Leasing Feature in the Inventory
 
-
+![lease adv.JPG](imgs%2Flease%20adv.JPG)
 
 ## Future Work
 
