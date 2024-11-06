@@ -1,5 +1,6 @@
 package com.pluralsight;
 
+
 public class Contract {
     private String date;
     private String customerName;
